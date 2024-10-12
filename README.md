@@ -8,3 +8,5 @@
 ## User Guide
 - [Basic Usage](userguide/basic.md)
 - [Advanced Usage](userguide/adv.md)
+
+Source: https://github.com/fridakitten/FridaCodeManager
