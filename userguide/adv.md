@@ -9,10 +9,8 @@ The Syntax is simular to XML. So you use tags like `<tag>content</tag>`. It also
 ### Classes
 The parser parses classes. like..
 ```xml
-# Main Class
-
 <api>
-    ... sub classes ...
+    <!-- sub classes -->
 </api>
 ```
 As you can see api is the main class.
