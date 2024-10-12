@@ -2,7 +2,7 @@
 
 ## Home
 - [Introduction](home/intro.md)
-- [Features](home/feat.md)
+- [Features and Limitations](home/feat.md)
 - [Installation](home/installation.md)
 
 ## User Guide
