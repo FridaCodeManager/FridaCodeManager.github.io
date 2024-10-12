@@ -2,7 +2,7 @@
 FridaCodeManager is a tool for special developers that want to develop software for their iPhone using their iPhone.
 
 ## Benefits
-- You dont have to take your big heavy macbook with you to enter your programming journay
+- You dont have to take your big heavy macbook with you to enter your programming journey
 - Supports Swift, Objective-C, Objective-C++, C, C++
 - You can use it everywhere you want (Home, Train, Airplane, while walking, etc)
 - It's more lightweight than XCode
