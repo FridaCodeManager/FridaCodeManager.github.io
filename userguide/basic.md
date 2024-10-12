@@ -27,7 +27,7 @@ The root of your project has all files needed to compile your app. It includes c
 As you create new code files they will automatically be found by FridaCodeManagers build system.
 
 ### Entitlements
-´entitlements.plist´ is a file that basically gives your app magic abilities. It elevates its permissions to what ever you write into the file. You can use almost all entitlements on TrollStore and jailbroken devices. You can find more documentation online about iOS App Entitlements.
+`entitlements.plist` is a file that basically gives your app magic abilities. It elevates its permissions to what ever you write into the file. You can use almost all entitlements on TrollStore and jailbroken devices. You can find more documentation online about iOS App Entitlements.
 
 ### Resources Folder
 The resources folder in your projects root has all files that gonna be in the apps root directory(for example Info.plist).
