@@ -16,7 +16,7 @@ The parser parses classes. like..
 As you can see api is the main class.
 
 ### Getting Started
-Create a file called `api.api` in your FCM projects root directory, then you'll have to create the Main class(`<api>`) then create a class called `<version>` to tell the API interpreter of FridaCodeManager for what version it should parse, this is to avoid issues in the future when we changed the API a bit.
+Create a file called `api.api` in your FCM projects root directory, then you'll have to create the Main class `<api>` then create a class called `<version>` to tell the API interpreter of FridaCodeManager for what version it should parse, this is to avoid issues in the future when we changed the API a bit.
 Do it like...
 ```xml
 <api>
@@ -33,7 +33,7 @@ After the `<version>` class you can add more subclasses the 1.1 version supports
     <build>-Lexamplelibfolder -lexample -Iexample/include</build>
 
     <!-- lets you add flags to the object file build command -->
-    <build-object>-Iexample/include</build-object> #
+    <build-object>-Iexample/include</build-object>
 
     <!-- lets you execute bash commands before build command has been executed, in this time the app folder already exists(i.e Payload/<app>.app/). This sub class is useful to compile roothelpers or libraries -->
     <exec-before>
