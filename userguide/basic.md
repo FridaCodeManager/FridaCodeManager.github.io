@@ -21,7 +21,7 @@ This Scheme basically is meant for advanced developers that want to write their 
 
 ## Project Files
 The root of your project has all files needed to compile your app. It includes code files,`entitlements.plist` and a resources folder.
-> Do never delete the `Resources` folder or create a file called `DontTouchMe.plist` in the `Resources` folder as it will corrupt your project and will make the folder unlistable!
+> Do never delete the `Resources` folder or create a file called `DontTouchMe.plist` in the `Resources` folder as it will corrupt your project and will make the entire project unlistable!
 
 ### Code Files
 As you create new code files they will automatically be found by FridaCodeManagers build system.
