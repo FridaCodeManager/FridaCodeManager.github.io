@@ -5,7 +5,7 @@ FridaCodeManager only supports iOS!
 
 ✅ Compatible
 
-🟡 limited Compatiblity
+🟡 Limited compatiblity
 
 ❌ Doesnt work
 
@@ -22,7 +22,7 @@ FridaCodeManager only supports iOS!
   <tbody>
   	<tr>
       <td>iOS 17.x</td>
-      <td>❌</td>
+      <td>🤔</td>
       <td>❌</td>
       <td>❌</td>
     </tr>
@@ -66,7 +66,7 @@ FridaCodeManager only supports iOS!
   <tbody>
   	<tr>
       <td>iOS 17.x</td>
-      <td>🤔</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
     </tr>
