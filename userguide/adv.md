@@ -3,7 +3,7 @@
 ## Interpreted API (1.1)
 Here is a brief introduction of how to use FridaCodeManagers inbuild interpreted API to take over control over your projects build process.
 
-### Sytax
+### Syntax
 The Syntax is simular to XML. So you use tags like `<tag>content</tag>`. It also has placeholders like `<placeholder>` which gives your script access to information stored in the APP or information provided by `libfcm`.
 
 ### Classes
