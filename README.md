@@ -1,4 +1,4 @@
-# FridaCodeManager
+# Documentation
 
 ## Home
 - [Introduction](home/intro.md)
