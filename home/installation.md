@@ -22,7 +22,7 @@ FridaCodeManager only supports iOS!
   <tbody>
   	<tr>
       <td>iOS 17.x</td>
-      <td>🤔</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
     </tr>
