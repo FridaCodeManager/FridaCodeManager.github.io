@@ -7,7 +7,7 @@ FridaCodeManager is a tool for special developers that want to develop software 
 - You can use it everywhere you want (Home, Train, Airplane, while walking, etc)
 - It's more lightweight than XCode
 
-## Drawback
+## Drawbacks
 - You have to use a jailbroken iPhone or you use Trollstore which currently doesnt support Swift
 - You cannot do analysis this good as you can using XCode
 - You cannot create Storyboards or Image Assets for now
