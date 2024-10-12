@@ -9,4 +9,5 @@
 - [Basic Usage](userguide/basic.md)
 - [Advanced Usage](userguide/adv.md)
 
+Last Updated: October the 12th 2024
 Source: https://github.com/fridakitten/FridaCodeManager
