@@ -1,1 +1,1 @@
-# FridaCodeManager.github.io
+# FridaCodeManager
