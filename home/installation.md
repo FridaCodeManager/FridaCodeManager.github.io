@@ -1,6 +1,6 @@
 # Installation
 
-## Compatibility
+### Compatibility
 FridaCodeManager only supports iOS!
 
 ✅ Compatible
@@ -9,7 +9,7 @@ FridaCodeManager only supports iOS!
 
 ❌ Doesnt work
 
-### arm64
+#### arm64
 <table>
   <thead>
     <tr>
@@ -53,7 +53,7 @@ FridaCodeManager only supports iOS!
   </tbody>
 </table>
 
-### arm64e
+#### arm64e
 <table>
   <thead>
     <tr>
