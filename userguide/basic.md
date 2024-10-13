@@ -31,3 +31,6 @@ As you create new code files they will automatically be found by FridaCodeManage
 
 ### Resources Folder
 The resources folder in your projects root has all files that gonna be in the apps root directory(for example Info.plist).
+
+## Uninstallation of Apps installed using FridaCodeManager
+To uninstall apps installed using FridaCodeManager please use TrollStore!
