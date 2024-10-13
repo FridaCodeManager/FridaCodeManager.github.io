@@ -75,7 +75,7 @@ FridaCodeManager only supports iOS!
     <tr>
       <td>iOS 17.0</td>
       <td>✅</td>
-      <td>❌</td>
+      <td>🟡</td>
       <td>❌</td>
     </tr>
     <tr>
